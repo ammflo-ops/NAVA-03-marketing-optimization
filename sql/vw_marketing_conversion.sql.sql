@@ -9,7 +9,8 @@ Description :
 
 Creates the business-ready view used by the Marketing Optimization dashboard.
 
-This view is part of the shared SQL architecture of the NAVA Business Intelligence Portfolio.
+This view is part of the shared SQL architecture of the 
+NAVA Business Intelligence Portfolio.
 
 WARNING:
 
