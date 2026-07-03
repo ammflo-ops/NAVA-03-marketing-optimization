@@ -44,16 +44,16 @@ Explore the interactive dashboard on Tableau Public : [**View Dashboard**](https
 
 ## Summary of Insights
 
-- **Google Ads** generated the largest share of both spend and revenue.
-- **Meta Ads** showed the strongest growth opportunity within the simulation.
-- **Email Marketing** remained the most cost-efficient acquisition channel.
-- Budget optimization scenarios highlighted opportunities to improve overall ROAS without increasing total investment.
+- **Email Marketing** consistently achieved the strongest marketing efficiency.
+- **Email Marketing France** presented the strongest opportunity for additional investment.
+- **Meta Ads** demonstrated strong growth potential in **France** and **Portugal**.
+- **Meta Ads Spain** delivered the lowest return relative to its investment.
 
 ## Recommendations & Next Steps
 
-- Increase investment in **Meta Ads** while maintaining current efficiency assumptions.
-- Preserve **Email Marketing** as a high-performing, low-cost acquisition channel.
-- Reassess budget allocation for **Google Ads** to maximize return on investment.
+- Maintain **Email Marketing** as a priority acquisition channel.
+- Increase investment in **Meta Ads** while maintaining current efficiency assumptions in **France** and **Portugal**.
+- Optimize **Meta Ads Spain** before allocating additional budget.
 - Use scenario simulation to support future budget planning decisions.
 
 ---
