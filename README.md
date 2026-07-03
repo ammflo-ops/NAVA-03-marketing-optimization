@@ -54,7 +54,7 @@ Explore the interactive dashboard on Tableau Public : [**View Dashboard**](https
 - Maintain **Email Marketing** as a priority acquisition channel.
 - Increase investment in **Meta Ads** while maintaining current efficiency assumptions in **France** and **Portugal**.
 - Optimize **Meta Ads Spain** before allocating additional budget.
-- Use scenario simulation to support future budget planning decisions.
+- Use scenario simulation to optimize future budget allocation across channels.
 
 ---
 
