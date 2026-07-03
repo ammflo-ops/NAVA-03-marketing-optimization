@@ -21,7 +21,7 @@ The dashboard combines marketing KPIs, channel performance analysis and interact
   <img src="dashboard/marketing_optimization_dashboard.png" width="900">
 </p>
 
-Explore the interactive dashboard on Tableau Public: **[View Dashboard]** (https://public.tableau.com/app/profile/florence.ammany/viz/Portfolio_Project_III_MarketingPerformance/MARKETINGDB)
+Explore the interactive dashboard on Tableau Public : [**View Dashboard**](https://public.tableau.com/app/profile/florence.ammany/viz/Portfolio_Project_III_MarketingPerformance/MARKETINGDB)
 
 ### Key Performance Indicators
 
